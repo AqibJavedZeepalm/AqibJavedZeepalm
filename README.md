@@ -23,21 +23,29 @@ One prompt, one credit ledger, whichever AI video model fits. <a href="https://s
 
 Also: [Art2Life](https://aqibjaved.dev/work/art2life/) (34 AI photo and video modes behind one credit balance), [Affili-Fit](https://aqibjaved.dev/work/affili-fit/) (meal plans, workouts and the grocery run in one app) and [Jobblish](https://aqibjaved.dev/work/jobblish/) (a freelance marketplace where the chat feels instant). Case studies with the real screenshots are on [aqibjaved.dev/work](https://aqibjaved.dev/work/).
 
-## Free Mac apps
+## Mac apps
 
-Small tools I built for my own desk and give away. Native Swift, no accounts, no tracking.
+Menu bar apps I built for my own desk and now sell to others. Native Swift and SwiftUI, notarized by Apple, no accounts, and they keep themselves up to date.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://aqibjaved.dev/apps/displayshift/"><img src="https://aqibjaved.dev/assets/ds-picker.webp" alt="DisplayShift picker dropping out of the MacBook notch" width="100%"></a>
-<b><a href="https://aqibjaved.dev/apps/displayshift/">DisplayShift</a></b><br>
-Plug in a monitor and a picker drops out of the notch so you choose which windows move over, fullscreen apps included.
+<td width="33%" valign="top">
+<a href="https://aqibjaved.dev/apps/notchet/"><img src="assets/notchet.webp" alt="The Notchet shelf hanging from the MacBook notch" width="100%"></a>
+<img src="https://aqibjaved.dev/assets/nt-icon.webp" width="20" align="top" alt=""> <b><a href="https://aqibjaved.dev/apps/notchet/">Notchet</a></b><br>
+Clipboard history that drops out of the notch. Pick a card and it pastes where you were, or drag it into any app.<br>
+<sub>7-day free trial, then $2.99 once</sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://aqibjaved.dev/apps/scrollwise/"><img src="https://aqibjaved.dev/assets/sw-hero.webp" alt="Scrollwise settings window" width="100%"></a>
-<b><a href="https://aqibjaved.dev/apps/scrollwise/">Scrollwise</a></b><br>
-Natural scrolling on the trackpad, classic on any mouse, Magic Mouse included. No more flipping the macOS switch.
+<td width="33%" valign="top">
+<a href="https://aqibjaved.dev/apps/displayshift/"><img src="assets/displayshift.webp" alt="DisplayShift picker dropping out of the MacBook notch" width="100%"></a>
+<img src="https://aqibjaved.dev/assets/ds-icon-glide.webp" width="20" align="top" alt=""> <b><a href="https://aqibjaved.dev/apps/displayshift/">DisplayShift</a></b><br>
+Plug in a monitor and choose which windows move over, full screen apps too. Tiles up to four apps and puts everything back after sleep.<br>
+<sub>7-day free trial, then $2.99 once</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://aqibjaved.dev/apps/scrollwise/"><img src="assets/scrollwise.webp" alt="Scrollwise settings window" width="100%"></a>
+<img src="https://aqibjaved.dev/assets/sw-icon.webp" width="20" align="top" alt=""> <b><a href="https://aqibjaved.dev/apps/scrollwise/">Scrollwise</a></b><br>
+Natural scrolling on the trackpad, classic on any mouse, Magic Mouse included. No more flipping the macOS switch.<br>
+<sub>Free</sub>
 </td>
 </tr>
 </table>
@@ -45,9 +53,9 @@ Natural scrolling on the trackpad, classic on any mouse, Magic Mouse included. N
 ## What I work with
 
 - **AI:** Gemini, OpenAI and Claude APIs, AI agents and chatbots, voice agents, AI video and image pipelines
-- **Apps:** iOS and Android, watchOS and Wear OS, web, and native macOS in Swift and SwiftUI
+- **Apps:** iOS and Android, watchOS and Wear OS, web, and native macOS in Swift, SwiftUI and AppKit
 - **Backend:** Node.js and TypeScript, Firebase and Cloud Functions, REST and realtime APIs
-- **Shipping:** Stripe and RevenueCat payments, CI/CD, App Store and Play Store releases
+- **Shipping:** Stripe and RevenueCat payments, licence keys, CI/CD, App Store and Play Store releases, notarized Mac apps that update themselves
 
 ## Work with me
 
