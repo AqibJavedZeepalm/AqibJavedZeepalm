@@ -50,6 +50,21 @@ Natural scrolling on the trackpad, classic on any mouse, Magic Mouse included. N
 </tr>
 </table>
 
+## Open source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AqibJavedZeepalm/stackyard"><img src="https://aqibjaved.dev/assets/sy-hero.webp" alt="Stackyard showing 14.1 GB of unused SDKs to free" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<img src="https://aqibjaved.dev/assets/sy-icon.webp" width="20" align="top" alt=""> <b><a href="https://github.com/AqibJavedZeepalm/stackyard">Stackyard</a></b><br>
+Every SDK and toolchain on your machine (Flutter, Node.js, Android SDK, Xcode simulators, Java, Python, .NET), which projects use each version, and what's safe to remove. Fixes broken setups in one click.<br>
+<sub>Free and open source (MIT), Windows and macOS</sub>
+</td>
+</tr>
+</table>
+
 ## What I work with
 
 - **AI:** Gemini, OpenAI and Claude APIs, AI agents and chatbots, voice agents, AI video and image pipelines
