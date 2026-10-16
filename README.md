@@ -4,24 +4,20 @@ Software engineer in Karachi, building AI products end to end. Mobile and web ap
 
 **[aqibjaved.dev](https://aqibjaved.dev)** · [LinkedIn](https://linkedin.com/in/aqib-javed-494ba8285) · [Fiverr](https://www.fiverr.com/hazproductions) · aqib199800@gmail.com
 
-## Things I've shipped
+## Open source
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://aqibjaved.dev/work/trackermax/"><img src="https://aqibjaved.dev/assets/tm-card-1.webp" alt="TrackerMax on iPhone and Apple Watch" width="100%"></a>
-<b><a href="https://aqibjaved.dev/work/trackermax/">TrackerMax</a></b>, builder and owner<br>
-A workout tracker with a real watch app on both platforms: native SwiftUI on watchOS and Jetpack Compose on Wear OS, synced with the phone app. <a href="https://apps.apple.com/app/id6737291931">App Store</a>
+<a href="https://github.com/AqibJavedZeepalm/stackyard"><img src="https://aqibjaved.dev/assets/sy-hero.webp" alt="Stackyard showing 14.1 GB of unused SDKs to free" width="100%"></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://aqibjaved.dev/work/spectoria/"><img src="https://aqibjaved.dev/assets/sp-card-1.webp" alt="Spectoria AI video app" width="100%"></a>
-<b><a href="https://aqibjaved.dev/work/spectoria/">Spectoria</a></b>, co-founder and lead engineer<br>
-One prompt, one credit ledger, whichever AI video model fits. <a href="https://spectoria.cc">spectoria.cc</a>
+<img src="https://aqibjaved.dev/assets/sy-icon.webp" width="20" align="top" alt=""> <b><a href="https://github.com/AqibJavedZeepalm/stackyard">Stackyard</a></b><br>
+Every SDK and toolchain on your machine (Flutter, Node.js, Android SDK, Xcode simulators, Java, Python, .NET), which projects use each version, and what's safe to remove. Fixes broken setups in one click.<br>
+<sub>Free and open source (MIT), Windows and macOS</sub>
 </td>
 </tr>
 </table>
-
-Also: [Art2Life](https://aqibjaved.dev/work/art2life/) (34 AI photo and video modes behind one credit balance), [Affili-Fit](https://aqibjaved.dev/work/affili-fit/) (meal plans, workouts and the grocery run in one app) and [Jobblish](https://aqibjaved.dev/work/jobblish/) (a freelance marketplace where the chat feels instant). Case studies with the real screenshots are on [aqibjaved.dev/work](https://aqibjaved.dev/work/).
 
 ## Mac apps
 
@@ -50,20 +46,24 @@ Natural scrolling on the trackpad, classic on any mouse, Magic Mouse included. N
 </tr>
 </table>
 
-## Open source
+## Things I've shipped
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/AqibJavedZeepalm/stackyard"><img src="https://aqibjaved.dev/assets/sy-hero.webp" alt="Stackyard showing 14.1 GB of unused SDKs to free" width="100%"></a>
+<a href="https://aqibjaved.dev/work/trackermax/"><img src="https://aqibjaved.dev/assets/tm-card-1.webp" alt="TrackerMax on iPhone and Apple Watch" width="100%"></a>
+<b><a href="https://aqibjaved.dev/work/trackermax/">TrackerMax</a></b>, builder and owner<br>
+A workout tracker with a real watch app on both platforms: native SwiftUI on watchOS and Jetpack Compose on Wear OS, synced with the phone app. <a href="https://apps.apple.com/app/id6737291931">App Store</a>
 </td>
 <td width="50%" valign="top">
-<img src="https://aqibjaved.dev/assets/sy-icon.webp" width="20" align="top" alt=""> <b><a href="https://github.com/AqibJavedZeepalm/stackyard">Stackyard</a></b><br>
-Every SDK and toolchain on your machine (Flutter, Node.js, Android SDK, Xcode simulators, Java, Python, .NET), which projects use each version, and what's safe to remove. Fixes broken setups in one click.<br>
-<sub>Free and open source (MIT), Windows and macOS</sub>
+<a href="https://aqibjaved.dev/work/spectoria/"><img src="https://aqibjaved.dev/assets/sp-card-1.webp" alt="Spectoria AI video app" width="100%"></a>
+<b><a href="https://aqibjaved.dev/work/spectoria/">Spectoria</a></b>, co-founder and lead engineer<br>
+One prompt, one credit ledger, whichever AI video model fits. <a href="https://spectoria.cc">spectoria.cc</a>
 </td>
 </tr>
 </table>
+
+Also: [Art2Life](https://aqibjaved.dev/work/art2life/) (34 AI photo and video modes behind one credit balance), [Affili-Fit](https://aqibjaved.dev/work/affili-fit/) (meal plans, workouts and the grocery run in one app) and [Jobblish](https://aqibjaved.dev/work/jobblish/) (a freelance marketplace where the chat feels instant). Case studies with the real screenshots are on [aqibjaved.dev/work](https://aqibjaved.dev/work/).
 
 ## What I work with
 
